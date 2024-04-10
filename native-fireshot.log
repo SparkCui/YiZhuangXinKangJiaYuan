@@ -1,0 +1,13 @@
+08-04-24 00:20:08.494  Started
+08-04-24 00:20:08.494  With command line: C:\Users\SparkCL\Downloads\FireShot\fireshot-chrome-plugin.exe 
+08-04-24 00:20:08.495  Target engine is: Chromium
+08-04-24 00:20:08.497  Using folder for deployment: C:\Users\SparkCL\AppData\Roaming\FireShot\1.12.18
+08-04-24 00:20:08.498  Created directory with result: 1
+08-04-24 00:20:08.499  Copying myself...
+08-04-24 00:20:08.501  Successfully written 368856 bytes.
+08-04-24 00:20:08.501  Extracting manifest...
+08-04-24 00:20:08.545  Written 642 bytes
+08-04-24 00:20:08.545  Done
+08-04-24 00:20:08.545  Writing registry...
+08-04-24 00:20:08.546  Successfully registered to HKEY_CURRENT_USER
+08-04-24 00:20:08.547  Exit
